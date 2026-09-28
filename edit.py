@@ -251,10 +251,10 @@ acc = INTRO
 for a, b, shot in segs:
     if shot in ("Mw", "Mc", "Hw", "Hc") and shot[0] not in shown and b - a > 2:
         shown.add(shot[0])
-        ev(acc + 0.3, acc + min(4.5, b - a - 0.2), "Name", fade + ("میلاد" if shot[0] == "M" else "هومن"))
+        ev(acc + 0.3, acc + min(4.5, b - a - 0.2), "Name", fade + ("میلاد" if shot[0] == "M" else "هومان"))
     if shot == "S":
         ev(acc, acc + (b - a), "Tag", r"{\pos(40,56)}میلاد", 1)
-        ev(acc, acc + (b - a), "Tag", r"{\pos(992,56)}هومن", 1)
+        ev(acc, acc + (b - a), "Tag", r"{\pos(992,56)}هومان", 1)
     acc += b - a
 
 # book + author cards

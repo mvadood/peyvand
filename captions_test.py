@@ -1,7 +1,7 @@
 # Hand-corrected Persian captions for the test range (source times).
 # "|" splits a long cue into two consecutive cues.
 CUES = [
-    (1.76, 3.12, "m", "خب سلام هومن"),
+    (1.76, 3.12, "m", "خب سلام هومان"),
     (5.94, 8.16, "m", "مرسی که جوین شدی"),
     (9.16, 12.88, "m", "چند روز پیش داشتیم با هم"),
     (12.88, 15.14, "m", "یه بحث سیاسی می‌کردیم"),

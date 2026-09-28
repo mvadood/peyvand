@@ -1,0 +1,37 @@
+{
+  "provider": "ElevenLabs",
+  "model": "eleven_text_to_sound_v2",
+  "flow_url": "https://elevenlabs.io/app/flows/r95sXRLeDNJjO6jNphSU",
+  "prompt": "Restrained 2.8-second sonic logo for a serious Persian conversation podcast. Two tactile wooden plucks in call and response: first at 0.15s, slightly higher answer at 0.5s, subtle warm low harmonic at 1.2s. Crisp intimate attacks, short dry room resonance, clean decay to silence by 2.6s. Confident and thoughtful. No voices, drums, cinematic boom, swoosh, glitter chimes or ambient pad.",
+  "parameters": {
+    "duration_seconds": 2.8,
+    "prompt_influence": 0.65,
+    "loop": false
+  },
+  "takes": [
+    {
+      "file": "take-1.mp3",
+      "generation_id": "Sda3AaVBP24qtKqGl1Wk",
+      "duration_seconds": 2.76
+    },
+    {
+      "file": "take-2.mp3",
+      "generation_id": "GTJg1DKeygRROszwKVCK",
+      "duration_seconds": 2.76
+    },
+    {
+      "file": "take-3.mp3",
+      "generation_id": "iesUPOZVOXPdhGEEMDG9",
+      "duration_seconds": 2.76
+    },
+    {
+      "file": "take-4.mp3",
+      "generation_id": "2Mor37co14qjrXV5qDvx",
+      "duration_seconds": 2.76
+    }
+  ],
+  "used_take": 3,
+  "selection_basis": "Take 3 has the closest measured attack timings to the visual exchange (0.13s and 0.50s). Creative sound choice remains for user review.",
+  "processing": "Convert to 48 kHz stereo 24-bit PCM, normalize sample peak to -4.5 dBFS, fade in 10 ms / fade out final 250 ms, pad to exactly 2.8 seconds.",
+  "failed_attempt": "Initial 563-character prompt exceeded provider's 450-character cap. All four initial jobs explicitly failed. Shortened prompt succeeded on the next run."
+}

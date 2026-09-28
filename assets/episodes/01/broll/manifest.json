@@ -1,0 +1,21 @@
+{
+  "description": "Generated B-roll illustrations for episode 1 (parking story short). Proposed, pending user review.",
+  "generated": "2026-09-28",
+  "tool": "ElevenLabs creative flow 'Peyvand — Parking short B-roll' (https://elevenlabs.io/app/flows/kDh0cuxVTEE2638ny1bR)",
+  "model": "gpt-image-2",
+  "settings": {"vertical": "9:16, 2K (1152x2048), quality medium", "thumbnail": "16:9, 2K (2048x1152), quality high"},
+  "cost_estimate_usd": 0.69,
+  "shared_style": "Editorial illustration in textured gouache and cut paper with fine risograph grain; flat graphic shapes with soft painterly edges; palette deep midnight navy #16233B, charcoal #15181B, cool pale grey #E9ECEF plus exactly one warm sodium-amber accent; calm top third and lower-middle band for text; no text, letters, numbers, logos or watermarks; people small or seen from behind.",
+  "images": {
+    "b01_reserved_dawn.png": {"generation_id": "Mbug99NZqkYOPZSqelW9", "scene": "Lone battered student hatchback in the blank-signed reserved bay at dawn"},
+    "b02_university.png": {"generation_id": "029Vc5gVkAIBYc7dk2pZ", "scene": "Low angle on the old university building; the president's window glows"},
+    "b03_full_lot.png": {"generation_id": "rjPBZPwGew72dDpHsKsT", "scene": "Top-down full car park, cars circling"},
+    "b04_ignored_door.png": {"generation_id": "O5X7ZjYuKDFCO9FbZTdA", "scene": "Closed office door with a pile of complaint letters"},
+    "b05_predawn_heist.png": {"generation_id": "cz4Lm0yHerMQ14zcxwWT", "scene": "Students guide an old hatchback into the reserved bay before dawn"},
+    "b06_ticket.png": {"generation_id": "6Vs84aKX2nTBnvNL53m8", "scene": "Parking-fine envelope under a windshield wiper"},
+    "b07_jar.png": {"generation_id": "4H2PBSiBL2jIydnuOzbR", "scene": "Students' hands dropping coins into one jar to split the fine"},
+    "b08_president.png": {"generation_id": "Y7areyzckhbh6Htld6oi", "scene": "The president, seen from behind, staring at the car in his bay"},
+    "b09_new_garage.png": {"generation_id": "tYBdmwSCkepcuvUSGZOn", "scene": "New multi-storey car park at golden hour"},
+    "t01_president_16x9.png": {"generation_id": "vIFvIqBMxAlaDmtlPdbJ", "scene": "Thumbnail background: president and car on the left, dark right side for the title"}
+  }
+}

@@ -1,0 +1,315 @@
+{
+  "kit": "Peyvand music v1",
+  "saved_date": "2026-09-28",
+  "status": "User approved retaining these five takes for Claude handoff; not integrated into episode renderers.",
+  "user_instruction": "ok store these so claude can pick them up. document them etc",
+  "provider": "ElevenLabs",
+  "model_id": "eleven_music_v2",
+  "flow_id": "ixm4k3AeZGLb0CXbXTLd",
+  "flow_url": "https://elevenlabs.io/app/flows/ixm4k3AeZGLb0CXbXTLd",
+  "processing": "Original downloaded MP3 bytes preserved. WAVs decoded to stereo 48 kHz 24-bit PCM with ffmpeg; no trimming, EQ, gain adjustment, loudness normalization or regeneration. WAVs are editing derivatives, not lossless original masters.",
+  "identity_limit": "Independently generated cues share a written sonic brief; identical melody, key and seamless looping are not verified.",
+  "licensing": {
+    "plan_entitlement_verified": false,
+    "terms_url": "https://elevenlabs.io/eleven-music-model-specific-terms",
+    "service_terms_url": "https://elevenlabs.io/music-terms",
+    "note": "Generation provenance is recorded here; this manifest is not a license certificate or proof of exclusive copyright. Account plan eligibility was not inspected."
+  },
+  "tracks": [
+    {
+      "name": "Main theme",
+      "slug": "main-theme",
+      "requested_duration_seconds": 30,
+      "reported_duration_seconds": 30,
+      "generation_id": "E3Kmby4w05944MXXndjk",
+      "session_id": "SrGM1Rx8b2S6z5PDqOFC",
+      "node_id": "XdzwsKpYsGnq1w7SFU6o",
+      "model_id": "eleven_music_v2",
+      "prompt": "Instrumental contemporary Iranian trip-hop at 100 BPM, thoughtful, confident and inquisitive: rounded low-register Persian tar with restrained Persian modal inflections, dry human tombak woven into modern drums, warm deep electronic bass and subtle dark harmonic texture; a compact questioning phrase rises then falls, answered by a longer resolving phrase, with changing bass harmony and natural pauses. Tar is the melodic lead, softened and integrated into the mix; ney if present is ONLY a faint low-register background breath texture far behind the tar, never a solo, piercing high note, wail or sustained flute lead; no other prominent flute, no acoustic guitar, sentimental piano, tech-ad synth plucks, ornate santur cascades, vocals, military menace or generic exotic travel music. 30-second intro/outro theme: clear hook in the first two seconds, develop an answering melody by 8 seconds, change the harmonic direction around 14 seconds, a brief rhythmic breath around 19 seconds then a confident fuller return with a varied melodic ending; concise resolved cadence and two seconds of natural decay. Medium energy with a small musical journey, never a static loop; memorable yet spacious enough for an opening spoken line.",
+      "order": 1,
+      "files": {
+        "source_mp3": {
+          "path": "source/peyvand-main-theme-v1.mp3",
+          "bytes": 738033,
+          "sha256": "0067b91959d8e953d54127f750c7657958449a67268f32e9895eff86e0b53e08",
+          "probe": {
+            "programs": [],
+            "stream_groups": [],
+            "streams": [
+              {
+                "codec_name": "mp3",
+                "sample_rate": "48000",
+                "channels": 2,
+                "bits_per_sample": 0
+              }
+            ],
+            "format": {
+              "duration": "30.000000",
+              "size": "738033"
+            }
+          }
+        },
+        "editing_wav": {
+          "path": "wav/peyvand-main-theme-v1.wav",
+          "bytes": 8640102,
+          "sha256": "9acecafc4ad8bafb358c746305b5374ba6d743d17c3f67f18a9e2e6a981b61e7",
+          "probe": {
+            "programs": [],
+            "stream_groups": [],
+            "streams": [
+              {
+                "codec_name": "pcm_s24le",
+                "sample_rate": "48000",
+                "channels": 2,
+                "bits_per_sample": 24,
+                "bits_per_raw_sample": "24"
+              }
+            ],
+            "format": {
+              "duration": "30.000000",
+              "size": "8640102"
+            }
+          }
+        }
+      },
+      "verified_duration_seconds": 30.0,
+      "validation": "Downloaded, probed, converted and fully decoded without errors; not an auditory quality review."
+    },
+    {
+      "name": "Conversation bed",
+      "slug": "conversation-bed",
+      "requested_duration_seconds": 60,
+      "reported_duration_seconds": 60,
+      "generation_id": "MlJlLjGZsRcvZo8VRKI6",
+      "session_id": "DIHIpFkpzspT48R5NAwu",
+      "node_id": "qUniub8me383TRgGSzGV",
+      "model_id": "eleven_music_v2",
+      "prompt": "Instrumental contemporary Iranian trip-hop at 100 BPM, thoughtful, confident and inquisitive: rounded low-register Persian tar with restrained Persian modal inflections, dry human tombak woven into modern drums, warm deep electronic bass and subtle dark harmonic texture; a compact questioning phrase rises then falls, answered by a longer resolving phrase, with changing bass harmony and natural pauses. Tar is the melodic lead, softened and integrated into the mix; ney if present is ONLY a faint low-register background breath texture far behind the tar, never a solo, piercing high note, wail or sustained flute lead; no other prominent flute, no acoustic guitar, sentimental piano, tech-ad synth plucks, ornate santur cascades, vocals, military menace or generic exotic travel music. 60-second restrained underscore for thoughtful spoken conversation: low energy, sparse muted tombak, warm bass, generous midrange space, only tiny tar fragments every several bars with long pauses; gently change harmony and texture every 10 to 15 seconds without drawing attention from speech. No prominent flute or ney melody at all, no lead solos, no dramatic builds, fills, sudden accents or climax; smooth unobtrusive opening and ending at the same energy, suitable for editing beneath narration.",
+      "order": 2,
+      "files": {
+        "source_mp3": {
+          "path": "source/peyvand-conversation-bed-v1.mp3",
+          "bytes": 1458033,
+          "sha256": "41003f42c1781d9ca832409d78485b226a9a0afdeabd2b722fddfadea741c719",
+          "probe": {
+            "programs": [],
+            "stream_groups": [],
+            "streams": [
+              {
+                "codec_name": "mp3",
+                "sample_rate": "48000",
+                "channels": 2,
+                "bits_per_sample": 0
+              }
+            ],
+            "format": {
+              "duration": "60.000000",
+              "size": "1458033"
+            }
+          }
+        },
+        "editing_wav": {
+          "path": "wav/peyvand-conversation-bed-v1.wav",
+          "bytes": 17280102,
+          "sha256": "bfc52ef74fbcb332429c8ce471910c1f6175e24bd8ab5c6f2f4e0b9a8b07b4e2",
+          "probe": {
+            "programs": [],
+            "stream_groups": [],
+            "streams": [
+              {
+                "codec_name": "pcm_s24le",
+                "sample_rate": "48000",
+                "channels": 2,
+                "bits_per_sample": 24,
+                "bits_per_raw_sample": "24"
+              }
+            ],
+            "format": {
+              "duration": "60.000000",
+              "size": "17280102"
+            }
+          }
+        }
+      },
+      "verified_duration_seconds": 60.0,
+      "validation": "Downloaded, probed, converted and fully decoded without errors; not an auditory quality review."
+    },
+    {
+      "name": "Build and reveal",
+      "slug": "build-and-reveal",
+      "requested_duration_seconds": 25,
+      "reported_duration_seconds": 25,
+      "generation_id": "Gd8kLNhOSfpkwpHe6XXA",
+      "session_id": "o60SLDGRkHnfg4wpm8GF",
+      "node_id": "2gbufeR9fdeV6Td6d5JU",
+      "model_id": "eleven_music_v2",
+      "prompt": "Instrumental contemporary Iranian trip-hop at 100 BPM, thoughtful, confident and inquisitive: rounded low-register Persian tar with restrained Persian modal inflections, dry human tombak woven into modern drums, warm deep electronic bass and subtle dark harmonic texture; a compact questioning phrase rises then falls, answered by a longer resolving phrase, with changing bass harmony and natural pauses. Tar is the melodic lead, softened and integrated into the mix; ney if present is ONLY a faint low-register background breath texture far behind the tar, never a solo, piercing high note, wail or sustained flute lead; no other prominent flute, no acoustic guitar, sentimental piano, tech-ad synth plucks, ornate santur cascades, vocals, military menace or generic exotic travel music. 25-second controlled build for a compelling question or reveal: begin with sparse bass and a fragment of tar, introduce the answering phrase and a harmonic shift by 8 seconds, progressively layer tombak subdivisions and firmer drums over the next 10 seconds, then a brief near-silent breath before a confident musical arrival at 21 seconds followed by a short decay. Create anticipation and curiosity through evolving melody and rhythm, not horror, emergency-news dread, pitch risers or an EDM drop.",
+      "order": 3,
+      "files": {
+        "source_mp3": {
+          "path": "source/peyvand-build-and-reveal-v1.mp3",
+          "bytes": 618225,
+          "sha256": "41c62fee41092d3c3070233a5750c79569cc503208565d97b2eed8ccebe7f765",
+          "probe": {
+            "programs": [],
+            "stream_groups": [],
+            "streams": [
+              {
+                "codec_name": "mp3",
+                "sample_rate": "48000",
+                "channels": 2,
+                "bits_per_sample": 0
+              }
+            ],
+            "format": {
+              "duration": "25.000000",
+              "size": "618225"
+            }
+          }
+        },
+        "editing_wav": {
+          "path": "wav/peyvand-build-and-reveal-v1.wav",
+          "bytes": 7200102,
+          "sha256": "cb7d77e006e3c9056a2a889ccfd0f3d9dfcf780e0f9d800b736c27d441879daa",
+          "probe": {
+            "programs": [],
+            "stream_groups": [],
+            "streams": [
+              {
+                "codec_name": "pcm_s24le",
+                "sample_rate": "48000",
+                "channels": 2,
+                "bits_per_sample": 24,
+                "bits_per_raw_sample": "24"
+              }
+            ],
+            "format": {
+              "duration": "25.000000",
+              "size": "7200102"
+            }
+          }
+        }
+      },
+      "verified_duration_seconds": 25.0,
+      "validation": "Downloaded, probed, converted and fully decoded without errors; not an auditory quality review."
+    },
+    {
+      "name": "High energy",
+      "slug": "high-energy",
+      "requested_duration_seconds": 30,
+      "reported_duration_seconds": 51.6,
+      "generation_id": "IrkNqIBRYc7IwazB8HJI",
+      "session_id": "TYTdqDofU3f0Rkji7CDz",
+      "node_id": "DzVDFNTgk5FDGkt48j6o",
+      "model_id": "eleven_music_v2",
+      "prompt": "Instrumental contemporary Iranian trip-hop at 100 BPM, thoughtful, confident and inquisitive: rounded low-register Persian tar with restrained Persian modal inflections, dry human tombak woven into modern drums, warm deep electronic bass and subtle dark harmonic texture; a compact questioning phrase rises then falls, answered by a longer resolving phrase, with changing bass harmony and natural pauses. Tar is the melodic lead, softened and integrated into the mix; ney if present is ONLY a faint low-register background breath texture far behind the tar, never a solo, piercing high note, wail or sustained flute lead; no other prominent flute, no acoustic guitar, sentimental piano, tech-ad synth plucks, ornate santur cascades, vocals, military menace or generic exotic travel music. 30-second high-energy trailer and short-video theme: immediate punchy syncopated drums, rolling articulate tombak and propulsive bass, a bold tar hook answered with a NEW longer melody by 7 seconds, a harmonic departure around 13 seconds, a one-bar breakdown around 18 seconds and a strong transformed return with a clear ending. Exciting, intelligent and forward-moving with varied phrases, dynamic contrast and rhythmic momentum rather than harsh loudness; no static loop, screaming ney, festival EDM or epic trailer bombast.",
+      "order": 4,
+      "files": {
+        "source_mp3": {
+          "path": "source/peyvand-high-energy-v1.mp3",
+          "bytes": 1256433,
+          "sha256": "27af01ce4167701646612af40ca00e11a320903a0217966994186e48b010a752",
+          "probe": {
+            "programs": [],
+            "stream_groups": [],
+            "streams": [
+              {
+                "codec_name": "mp3",
+                "sample_rate": "48000",
+                "channels": 2,
+                "bits_per_sample": 0
+              }
+            ],
+            "format": {
+              "duration": "51.600000",
+              "size": "1256433"
+            }
+          }
+        },
+        "editing_wav": {
+          "path": "wav/peyvand-high-energy-v1.wav",
+          "bytes": 14860902,
+          "sha256": "6cbad0284314ca52e0ebaa01b1a6a27613d8e774181ac3afbd66aa3ac6c261ed",
+          "probe": {
+            "programs": [],
+            "stream_groups": [],
+            "streams": [
+              {
+                "codec_name": "pcm_s24le",
+                "sample_rate": "48000",
+                "channels": 2,
+                "bits_per_sample": 24,
+                "bits_per_raw_sample": "24"
+              }
+            ],
+            "format": {
+              "duration": "51.600000",
+              "size": "14860902"
+            }
+          }
+        }
+      },
+      "verified_duration_seconds": 51.6,
+      "validation": "Downloaded, probed, converted and fully decoded without errors; not an auditory quality review."
+    },
+    {
+      "name": "Logo sting",
+      "slug": "logo-sting",
+      "requested_duration_seconds": 4,
+      "reported_duration_seconds": 4,
+      "generation_id": "0Gt49kkWkX1IbQzdVDNv",
+      "session_id": "evTG54MOymMfKTvfDy9w",
+      "node_id": "az3DCJr8yTGoUDSxq1tZ",
+      "model_id": "eleven_music_v2",
+      "prompt": "Instrumental contemporary Iranian trip-hop at 100 BPM, thoughtful, confident and inquisitive: rounded low-register Persian tar with restrained Persian modal inflections, dry human tombak woven into modern drums, warm deep electronic bass and subtle dark harmonic texture; a compact questioning phrase rises then falls, answered by a longer resolving phrase, with changing bass harmony and natural pauses. Tar is the melodic lead, softened and integrated into the mix; ney if present is ONLY a faint low-register background breath texture far behind the tar, never a solo, piercing high note, wail or sustained flute lead; no other prominent flute, no acoustic guitar, sentimental piano, tech-ad synth plucks, ornate santur cascades, vocals, military menace or generic exotic travel music. Exactly four seconds: a concise musical logo, just one short Persian tar question and one answering phrase over a rounded bass note and two dry tombak accents, with a decisive warm resolution and a clean short decay within the duration. No ney or flute, no ambience intro, no full groove, no repetition, no whoosh or cinematic impact; compact, confident and recognisable.",
+      "order": 5,
+      "files": {
+        "source_mp3": {
+          "path": "source/peyvand-logo-sting-v1.mp3",
+          "bytes": 114225,
+          "sha256": "4ebbcec105ee0d6bc2cc8d242a1a0527ec33c81abba2aebb8d7594deb0515a66",
+          "probe": {
+            "programs": [],
+            "stream_groups": [],
+            "streams": [
+              {
+                "codec_name": "mp3",
+                "sample_rate": "48000",
+                "channels": 2,
+                "bits_per_sample": 0
+              }
+            ],
+            "format": {
+              "duration": "4.000000",
+              "size": "114225"
+            }
+          }
+        },
+        "editing_wav": {
+          "path": "wav/peyvand-logo-sting-v1.wav",
+          "bytes": 1152102,
+          "sha256": "977f60f19d9934ef51ea9e58f4bcb839d49d2e395fc0cb1bad2d7dacd671c053",
+          "probe": {
+            "programs": [],
+            "stream_groups": [],
+            "streams": [
+              {
+                "codec_name": "pcm_s24le",
+                "sample_rate": "48000",
+                "channels": 2,
+                "bits_per_sample": 24,
+                "bits_per_raw_sample": "24"
+              }
+            ],
+            "format": {
+              "duration": "4.000000",
+              "size": "1152102"
+            }
+          }
+        }
+      },
+      "verified_duration_seconds": 4.0,
+      "validation": "Downloaded, probed, converted and fully decoded without errors; not an auditory quality review."
+    }
+  ]
+}

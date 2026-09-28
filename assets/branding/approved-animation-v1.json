@@ -1,0 +1,128 @@
+{
+  "approved_on": "2026-09-28",
+  "status": "approved production baseline",
+  "user_direction": "cool save it",
+  "decision": "D-016",
+  "kit": "animation/",
+  "archive": "peyvand-animation-v1.zip",
+  "sonic_signature": "animation/audio/peyvand-sonic-signature.wav",
+  "selected_audio_take": 3,
+  "alternative_takes_are_not_selected": true,
+  "files": [
+    {
+      "path": "animation/README.md",
+      "bytes": 2801,
+      "sha256": "899507810465a8062bb34b92dac1f03f844efc2523499ae0315e3551d4416011"
+    },
+    {
+      "path": "animation/audio/generation-notes.json",
+      "bytes": 1648,
+      "sha256": "e5a6c2b816a46be6c85b8b417a35e793bc77604cf0e70ea29e5927d5ea1134bc"
+    },
+    {
+      "path": "animation/audio/peyvand-sonic-signature.wav",
+      "bytes": 806502,
+      "sha256": "cb187b0540ba34a4216d97a1cf989fb7a6979835ab604a2289a8cc3f48cffabd"
+    },
+    {
+      "path": "animation/audio/take-1.mp3",
+      "bytes": 62019,
+      "sha256": "3816188f2f1f2ed363e8dba18773187905ddd3d365b845386b6a476840a3376e"
+    },
+    {
+      "path": "animation/audio/take-2.mp3",
+      "bytes": 62019,
+      "sha256": "263368f732026ffe440bdb51dd5cbca6eb2e269bfe8053ca71ecc71820d19db6"
+    },
+    {
+      "path": "animation/audio/take-3.mp3",
+      "bytes": 62019,
+      "sha256": "5311c6a4fe8b0491ee0a8d7273b27faf6a9e51333df3b433fd11aa21e2b20fbb"
+    },
+    {
+      "path": "animation/audio/take-4.mp3",
+      "bytes": 62019,
+      "sha256": "a52e407072afa3e8e17aeae3f00de88de0b988b528ca20204c0f632e19b6d384"
+    },
+    {
+      "path": "animation/peyvand-intro-landscape-dark-poster.png",
+      "bytes": 42616,
+      "sha256": "c4922c004cab8db12519d72f136716814c6c12c9b4cc0ec3fcd72d809ac8ae57"
+    },
+    {
+      "path": "animation/peyvand-intro-landscape-dark-silent.mp4",
+      "bytes": 77662,
+      "sha256": "e06e76fd2b110dc868ebc7c16e199dd9d85285fcf3351eb75fcc58e96ba605f9"
+    },
+    {
+      "path": "animation/peyvand-intro-landscape-dark.mp4",
+      "bytes": 144353,
+      "sha256": "3d39348eaa3e868eed36399b335d8d243c2634879b31a716dfc76332d1e40fe7"
+    },
+    {
+      "path": "animation/peyvand-intro-landscape-light-poster.png",
+      "bytes": 42367,
+      "sha256": "923bc829d65e3ec369968b66d3ca745bc490864e6d050a7756ee2d19c8face9c"
+    },
+    {
+      "path": "animation/peyvand-intro-landscape-light-silent.mp4",
+      "bytes": 80085,
+      "sha256": "c631326ad71a8e602c947ceb26ba13ae2f4bf4cc032395a3aaba4a16f6e95247"
+    },
+    {
+      "path": "animation/peyvand-intro-landscape-light.mp4",
+      "bytes": 146776,
+      "sha256": "795de71194d9ac03abb4fe058d4d67caeae9f8769bc8543b3ae6c9c8daef79ad"
+    },
+    {
+      "path": "animation/peyvand-intro-vertical-dark-poster.png",
+      "bytes": 58253,
+      "sha256": "27d55a73a5d6fb66acf2b58d8cf5ff42002a6ac40d3623dc7b8e7c957e53fe1a"
+    },
+    {
+      "path": "animation/peyvand-intro-vertical-dark-silent.mp4",
+      "bytes": 113621,
+      "sha256": "e660ff01dc4e7d1fc8010a08f436085eaaeb22abe838b4d95256dad64fba9796"
+    },
+    {
+      "path": "animation/peyvand-intro-vertical-dark.mp4",
+      "bytes": 180312,
+      "sha256": "cf8a7dd1029f3136c1fcbb5f7414dd642ccd454aa9ecb16a582e8ad71ba877cc"
+    },
+    {
+      "path": "animation/peyvand-intro-vertical-light-poster.png",
+      "bytes": 57957,
+      "sha256": "c9d9d382b7acd99339be0d1fe8fc5322a6f361f931985a92a15363a278d6be6f"
+    },
+    {
+      "path": "animation/peyvand-intro-vertical-light-silent.mp4",
+      "bytes": 116860,
+      "sha256": "e5360190513ffd23a288db88aa40a1b2da2c2aa44847cb4e7d7dbe3c4d49d697"
+    },
+    {
+      "path": "animation/peyvand-intro-vertical-light.mp4",
+      "bytes": 183551,
+      "sha256": "47f55ce846fc7b8ea92e2f688654b08d32792ba9d665452db6a9d290b6c3069a"
+    },
+    {
+      "path": "animation/preview.html",
+      "bytes": 1716,
+      "sha256": "17e3fcf16842617a642ccd160076d9356b53d08dfd5a19b4fc50aa546bbef6d4"
+    },
+    {
+      "path": "animation/timeline.json",
+      "bytes": 613,
+      "sha256": "548db14cae404c6e6496975c1723f41290151fa7875edd817c0069369130a40c"
+    },
+    {
+      "path": "animation/validation.json",
+      "bytes": 1876,
+      "sha256": "ae63ea2236da8d92580dce9527862e85bce8849430381d5a8be9f65af6b2d4bd"
+    },
+    {
+      "path": "peyvand-animation-v1.zip",
+      "bytes": 2046493,
+      "sha256": "6de973f1f54e6a49029da5f1c0e283650b7379102aa25c5a026b8668958923db"
+    }
+  ]
+}

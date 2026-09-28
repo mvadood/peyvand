@@ -1,0 +1,37 @@
+{
+  "duration": 2.8,
+  "fps": 30,
+  "ease": "cubic-out",
+  "groups": {
+    "stroke-left": {
+      "start": 0.08,
+      "end": 0.78,
+      "fade_end": 0.28,
+      "dx": -130,
+      "dy": 90,
+      "rotation": -5,
+      "cx": 369,
+      "cy": 471
+    },
+    "stroke-right": {
+      "start": 0.36,
+      "end": 1.06,
+      "fade_end": 0.56,
+      "dx": 130,
+      "dy": -90,
+      "rotation": 5,
+      "cx": 703,
+      "cy": 739
+    },
+    "wordmark": {
+      "start": 1.12,
+      "end": 1.58,
+      "fade_end": 1.58,
+      "dx": 0,
+      "dy": 24,
+      "rotation": 0,
+      "cx": 543,
+      "cy": 1257
+    }
+  }
+}

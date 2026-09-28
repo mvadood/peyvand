@@ -1,0 +1,171 @@
+[
+  {
+    "file": "avatars/peyvand-avatar-dark-bg.png",
+    "bytes": 30596,
+    "size": [
+      1024,
+      1024
+    ],
+    "mode": "RGB"
+  },
+  {
+    "file": "avatars/peyvand-avatar-dark-bg.svg",
+    "bytes": 2848
+  },
+  {
+    "file": "avatars/peyvand-avatar-light-bg.png",
+    "bytes": 30508,
+    "size": [
+      1024,
+      1024
+    ],
+    "mode": "RGB"
+  },
+  {
+    "file": "avatars/peyvand-avatar-light-bg.svg",
+    "bytes": 2848
+  },
+  {
+    "file": "master/peyvand-logo-master.svg",
+    "bytes": 7820
+  },
+  {
+    "file": "motion/stroke-left.svg",
+    "bytes": 1437
+  },
+  {
+    "file": "motion/stroke-right.svg",
+    "bytes": 1492
+  },
+  {
+    "file": "motion/wordmark.svg",
+    "bytes": 4751
+  },
+  {
+    "file": "png/peyvand-logo-dark-ink-1086.png",
+    "bytes": 57596,
+    "size": [
+      1086,
+      1448
+    ],
+    "mode": "RGBA"
+  },
+  {
+    "file": "png/peyvand-logo-dark-ink-2172.png",
+    "bytes": 129901,
+    "size": [
+      2172,
+      2896
+    ],
+    "mode": "RGBA"
+  },
+  {
+    "file": "png/peyvand-logo-light-ink-1086.png",
+    "bytes": 57414,
+    "size": [
+      1086,
+      1448
+    ],
+    "mode": "RGBA"
+  },
+  {
+    "file": "png/peyvand-logo-light-ink-2172.png",
+    "bytes": 129749,
+    "size": [
+      2172,
+      2896
+    ],
+    "mode": "RGBA"
+  },
+  {
+    "file": "png/peyvand-symbol-dark-ink-1024.png",
+    "bytes": 37143,
+    "size": [
+      1024,
+      1108
+    ],
+    "mode": "RGBA"
+  },
+  {
+    "file": "png/peyvand-symbol-dark-ink-256.png",
+    "bytes": 7879,
+    "size": [
+      256,
+      277
+    ],
+    "mode": "RGBA"
+  },
+  {
+    "file": "png/peyvand-symbol-light-ink-1024.png",
+    "bytes": 37153,
+    "size": [
+      1024,
+      1108
+    ],
+    "mode": "RGBA"
+  },
+  {
+    "file": "png/peyvand-symbol-light-ink-256.png",
+    "bytes": 7817,
+    "size": [
+      256,
+      277
+    ],
+    "mode": "RGBA"
+  },
+  {
+    "file": "png/peyvand-wordmark-dark-ink-1600.png",
+    "bytes": 51090,
+    "size": [
+      1600,
+      757
+    ],
+    "mode": "RGBA"
+  },
+  {
+    "file": "png/peyvand-wordmark-light-ink-1600.png",
+    "bytes": 50432,
+    "size": [
+      1600,
+      757
+    ],
+    "mode": "RGBA"
+  },
+  {
+    "file": "preview.png",
+    "bytes": 148370,
+    "size": [
+      1800,
+      1320
+    ],
+    "mode": "RGB"
+  },
+  {
+    "file": "preview.svg",
+    "bytes": 29244
+  },
+  {
+    "file": "svg/peyvand-logo-dark-ink.svg",
+    "bytes": 7258
+  },
+  {
+    "file": "svg/peyvand-logo-light-ink.svg",
+    "bytes": 7258
+  },
+  {
+    "file": "svg/peyvand-symbol-dark-ink.svg",
+    "bytes": 2720
+  },
+  {
+    "file": "svg/peyvand-symbol-light-ink.svg",
+    "bytes": 2720
+  },
+  {
+    "file": "svg/peyvand-wordmark-dark-ink.svg",
+    "bytes": 4752
+  },
+  {
+    "file": "svg/peyvand-wordmark-light-ink.svg",
+    "bytes": 4752
+  }
+]

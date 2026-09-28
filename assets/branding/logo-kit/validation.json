@@ -1,0 +1,66 @@
+{
+  "transparent_pairs": [
+    {
+      "dark": "png/peyvand-logo-dark-ink-1086.png",
+      "light": "png/peyvand-logo-light-ink-1086.png",
+      "size": [
+        1086,
+        1448
+      ],
+      "identical_alpha": true
+    },
+    {
+      "dark": "png/peyvand-logo-dark-ink-2172.png",
+      "light": "png/peyvand-logo-light-ink-2172.png",
+      "size": [
+        2172,
+        2896
+      ],
+      "identical_alpha": true
+    },
+    {
+      "dark": "png/peyvand-symbol-dark-ink-1024.png",
+      "light": "png/peyvand-symbol-light-ink-1024.png",
+      "size": [
+        1024,
+        1108
+      ],
+      "identical_alpha": true
+    },
+    {
+      "dark": "png/peyvand-symbol-dark-ink-256.png",
+      "light": "png/peyvand-symbol-light-ink-256.png",
+      "size": [
+        256,
+        277
+      ],
+      "identical_alpha": true
+    },
+    {
+      "dark": "png/peyvand-wordmark-dark-ink-1600.png",
+      "light": "png/peyvand-wordmark-light-ink-1600.png",
+      "size": [
+        1600,
+        757
+      ],
+      "identical_alpha": true
+    }
+  ],
+  "connected_components": 10,
+  "persian_counter_transparent": true,
+  "avatar_circle_clearance": {
+    "light": {
+      "max_ink_radius_px": 420.21,
+      "circle_radius_px": 512,
+      "clearance_px": 91.79
+    },
+    "dark": {
+      "max_ink_radius_px": 420.21,
+      "circle_radius_px": 512,
+      "clearance_px": 91.79
+    }
+  },
+  "motion_layers_identical_to_master": true,
+  "reference_sha256": "167c0334e4a8c69e24bfe16a66915d177cd5dbe93f388b6dba806ad0379dbbff",
+  "method": "All final variations are native SVG derivatives and direct rsvg-convert exports of one master. No raster retouching."
+}

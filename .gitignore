@@ -14,3 +14,7 @@ renders/
 transcripts/
 
 .DS_Store
+
+# approved brand motion files are small and must be kept despite the media rules above
+!assets/branding/animation/*.mp4
+!assets/branding/animation/audio/*.mp3
