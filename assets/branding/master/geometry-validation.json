@@ -1,0 +1,154 @@
+{
+  "source": "assets/branding/peyvand-logo.png",
+  "master": "assets/branding/master/peyvand-logo-master.svg",
+  "canvas_px": [
+    1086,
+    1448
+  ],
+  "palette": {
+    "foreground": "#15181B",
+    "reference_background": "#E9ECEF"
+  },
+  "threshold_luminance": 129.5,
+  "fit_tolerance_px": 0.65,
+  "groups": [
+    "stroke-left",
+    "stroke-right",
+    "wordmark"
+  ],
+  "path_count": 10,
+  "bezier_or_line_segments": 125,
+  "foreground_mask_iou": 0.9969534182059019,
+  "differing_binary_pixels": 1242,
+  "boundary_max_deviation_px": 1.0,
+  "boundary_p95_deviation_px": 1.0,
+  "boundary_mean_deviation_px": 0.18889651490886905,
+  "source_opacity_mean_absolute_error": 0.0019905990626267983,
+  "all_paths_closed": true,
+  "contains_embedded_images": false,
+  "contains_fonts_or_text_elements": false,
+  "contours": [
+    {
+      "id": "outline-1",
+      "group": "stroke-left",
+      "segments": 23,
+      "bounds": [
+        95.71923076923076,
+        83.63602941176471,
+        641.7175572519084,
+        857.8666666666667
+      ]
+    },
+    {
+      "id": "outline-2",
+      "group": "stroke-right",
+      "segments": 25,
+      "bounds": [
+        417.9166666666667,
+        418.56410256410254,
+        988.75,
+        1058.900641025641
+      ]
+    },
+    {
+      "id": "outline-3",
+      "group": "wordmark",
+      "segments": 28,
+      "bounds": [
+        489.86577181208054,
+        1180.767361111111,
+        848.0037878787879,
+        1350.3690476190477
+      ]
+    },
+    {
+      "id": "outline-4",
+      "group": "wordmark",
+      "segments": 20,
+      "bounds": [
+        237.86267605633802,
+        1154.3112582781457,
+        478.9441176470588,
+        1292.5791666666667
+      ]
+    },
+    {
+      "id": "outline-5",
+      "group": "wordmark",
+      "segments": 4,
+      "bounds": [
+        414.3900709219858,
+        1128.003164556962,
+        458.4409090909091,
+        1172.3023255813953
+      ]
+    },
+    {
+      "id": "outline-6",
+      "group": "wordmark",
+      "segments": 4,
+      "bounds": [
+        763.75,
+        1344.841726618705,
+        805.2516556291391,
+        1386.7138157894738
+      ]
+    },
+    {
+      "id": "outline-7",
+      "group": "wordmark",
+      "segments": 4,
+      "bounds": [
+        740.1443661971831,
+        1305.4960317460318,
+        781.1077844311377,
+        1346.4404761904761
+      ]
+    },
+    {
+      "id": "outline-8",
+      "group": "wordmark",
+      "segments": 4,
+      "bounds": [
+        787.2105263157895,
+        1305.355633802817,
+        828.007299270073,
+        1346.4717741935483
+      ]
+    },
+    {
+      "id": "outline-9",
+      "group": "wordmark",
+      "segments": 4,
+      "bounds": [
+        621.6477272727273,
+        1305.44921875,
+        661.8246268656717,
+        1345.8391608391607
+      ]
+    },
+    {
+      "id": "outline-10",
+      "group": "wordmark",
+      "segments": 4,
+      "bounds": [
+        665.469298245614,
+        1305.6422413793102,
+        705.0641891891892,
+        1345.9310344827586
+      ]
+    },
+    {
+      "id": "outline-11",
+      "group": "wordmark",
+      "segments": 5,
+      "bounds": [
+        530.906432748538,
+        1223.8117283950617,
+        563.3152173913044,
+        1246.020588235294
+      ],
+      "merged_into": "outline-3"
+    }
+  ]
+}

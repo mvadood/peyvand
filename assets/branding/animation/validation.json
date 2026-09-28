@@ -1,0 +1,87 @@
+{
+  "exports": [
+    {
+      "file": "peyvand-intro-landscape-dark-silent.mp4",
+      "width": 1920,
+      "height": 1080,
+      "frames": 84,
+      "fps": 30,
+      "duration": 2.8,
+      "audio": false,
+      "decode": "passed"
+    },
+    {
+      "file": "peyvand-intro-landscape-dark.mp4",
+      "width": 1920,
+      "height": 1080,
+      "frames": 84,
+      "fps": 30,
+      "duration": 2.8,
+      "audio": true,
+      "decode": "passed"
+    },
+    {
+      "file": "peyvand-intro-landscape-light-silent.mp4",
+      "width": 1920,
+      "height": 1080,
+      "frames": 84,
+      "fps": 30,
+      "duration": 2.8,
+      "audio": false,
+      "decode": "passed"
+    },
+    {
+      "file": "peyvand-intro-landscape-light.mp4",
+      "width": 1920,
+      "height": 1080,
+      "frames": 84,
+      "fps": 30,
+      "duration": 2.8,
+      "audio": true,
+      "decode": "passed"
+    },
+    {
+      "file": "peyvand-intro-vertical-dark-silent.mp4",
+      "width": 1080,
+      "height": 1920,
+      "frames": 84,
+      "fps": 30,
+      "duration": 2.8,
+      "audio": false,
+      "decode": "passed"
+    },
+    {
+      "file": "peyvand-intro-vertical-dark.mp4",
+      "width": 1080,
+      "height": 1920,
+      "frames": 84,
+      "fps": 30,
+      "duration": 2.8,
+      "audio": true,
+      "decode": "passed"
+    },
+    {
+      "file": "peyvand-intro-vertical-light-silent.mp4",
+      "width": 1080,
+      "height": 1920,
+      "frames": 84,
+      "fps": 30,
+      "duration": 2.8,
+      "audio": false,
+      "decode": "passed"
+    },
+    {
+      "file": "peyvand-intro-vertical-light.mp4",
+      "width": 1080,
+      "height": 1920,
+      "frames": 84,
+      "fps": 30,
+      "duration": 2.8,
+      "audio": true,
+      "decode": "passed"
+    }
+  ],
+  "approved_baseline_files_unchanged": 34,
+  "native_path_geometry": "identical",
+  "final_component_transforms": "identity"
+}

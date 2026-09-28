@@ -1,0 +1,179 @@
+{
+  "approved_on": "2026-09-28",
+  "status": "approved production baseline",
+  "user_direction": "ok store these",
+  "kit": "logo-kit/",
+  "archive": "peyvand-logo-kit.zip",
+  "files": [
+    {
+      "path": "peyvand-logo.png",
+      "bytes": 954451,
+      "sha256": "167c0334e4a8c69e24bfe16a66915d177cd5dbe93f388b6dba806ad0379dbbff"
+    },
+    {
+      "path": "master/peyvand-logo-master.svg",
+      "bytes": 7820,
+      "sha256": "6ceba07b5336336866fa5469180ea15c1a8302d92e7470685b9502f7fa984d49"
+    },
+    {
+      "path": "peyvand-logo-kit.zip",
+      "bytes": 732197,
+      "sha256": "e3581cab49992f7f2ad5d6f836648c81d4e3f8709d64e16f6e156e64b135bba7"
+    },
+    {
+      "path": "logo-kit/README.md",
+      "bytes": 4572,
+      "sha256": "a3e1d945bf8cac21a94ba274a66dc7c4b477ebf11855b8d977b437dc616a467c"
+    },
+    {
+      "path": "logo-kit/avatars/peyvand-avatar-dark-bg.png",
+      "bytes": 30596,
+      "sha256": "c963d51776a70966c97e983ce18d30b27ee7b0e1d4467916c7c75ee5df459e97"
+    },
+    {
+      "path": "logo-kit/avatars/peyvand-avatar-dark-bg.svg",
+      "bytes": 2848,
+      "sha256": "b0b32cc81495def9530dc76214133b78ffd7622725a91188e5541c1f85d1c53a"
+    },
+    {
+      "path": "logo-kit/avatars/peyvand-avatar-light-bg.png",
+      "bytes": 30508,
+      "sha256": "3002413dd706d3b9b2c7b0dde8026f7bb1ed416347aa29433236138058dd6d45"
+    },
+    {
+      "path": "logo-kit/avatars/peyvand-avatar-light-bg.svg",
+      "bytes": 2848,
+      "sha256": "6dc735596e39ab21baf2b2e059f8c03a5acac341dee6eabc06d7e55c5c98cb60"
+    },
+    {
+      "path": "logo-kit/generation-notes.md",
+      "bytes": 2415,
+      "sha256": "486b5c55bcb0f9dd2cf258fa86c235448818ca6291f43aa47a2b303dbad85e1f"
+    },
+    {
+      "path": "logo-kit/manifest.json",
+      "bytes": 2761,
+      "sha256": "738925924d685e6ee9e270bc56258ea44e023a2ca4cf68e5760daace6d58c439"
+    },
+    {
+      "path": "logo-kit/master/geometry-validation.json",
+      "bytes": 3267,
+      "sha256": "7f989a4702fbe5531184b911974080918ad5ef90303ec0c389a888607c1f21e5"
+    },
+    {
+      "path": "logo-kit/master/peyvand-logo-master.svg",
+      "bytes": 7820,
+      "sha256": "6ceba07b5336336866fa5469180ea15c1a8302d92e7470685b9502f7fa984d49"
+    },
+    {
+      "path": "logo-kit/motion/stroke-left.svg",
+      "bytes": 1437,
+      "sha256": "5d3286956ee82a5198f78777596aa021d5e6498593d66e932e36f984f45278a6"
+    },
+    {
+      "path": "logo-kit/motion/stroke-right.svg",
+      "bytes": 1492,
+      "sha256": "3802e19bff49ed6cbc9702522f17ac610f7a7f604c6c028dfe20e8be1e24270e"
+    },
+    {
+      "path": "logo-kit/motion/wordmark.svg",
+      "bytes": 4751,
+      "sha256": "9bf572c0ac475fbe381ef2db981961e658306a61e7e94fe2ab8e096a96a40f62"
+    },
+    {
+      "path": "logo-kit/png/peyvand-logo-dark-ink-1086.png",
+      "bytes": 57596,
+      "sha256": "4a1ce60b6ae010f22f814616da7b763759099b7da201c18c9d0616f65e451aae"
+    },
+    {
+      "path": "logo-kit/png/peyvand-logo-dark-ink-2172.png",
+      "bytes": 129901,
+      "sha256": "b52b5cd2bfda5dbd8b294b2e880caab31c1940fe5934c1eab22f7d2d5c7e6bea"
+    },
+    {
+      "path": "logo-kit/png/peyvand-logo-light-ink-1086.png",
+      "bytes": 57414,
+      "sha256": "d719a85fd9f78337320dd1ddb487cdcf0d06237d99a40ec08847614ea5ddf0f9"
+    },
+    {
+      "path": "logo-kit/png/peyvand-logo-light-ink-2172.png",
+      "bytes": 129749,
+      "sha256": "69430fb1d391c1b2202e2f57f8b4dff69db0c49988f236d0935003da0cc77c90"
+    },
+    {
+      "path": "logo-kit/png/peyvand-symbol-dark-ink-1024.png",
+      "bytes": 37143,
+      "sha256": "ab96209b710fe960de78bdd006b00120401ee94184eecae156a70f7fa1e9e296"
+    },
+    {
+      "path": "logo-kit/png/peyvand-symbol-dark-ink-256.png",
+      "bytes": 7879,
+      "sha256": "f94b1cf8870febbfe2d9fa43bf4d5d77d593381979450d073e1fa1f743c3d2a0"
+    },
+    {
+      "path": "logo-kit/png/peyvand-symbol-light-ink-1024.png",
+      "bytes": 37153,
+      "sha256": "310b045b44d880253ed4ab60bfd83b4f6121971f84a7d238077b64a1da0b8487"
+    },
+    {
+      "path": "logo-kit/png/peyvand-symbol-light-ink-256.png",
+      "bytes": 7817,
+      "sha256": "fb6825af818f5edd946c8b3bf544427a24d9ac8f8694dc26ccbdc34a50831679"
+    },
+    {
+      "path": "logo-kit/png/peyvand-wordmark-dark-ink-1600.png",
+      "bytes": 51090,
+      "sha256": "b3b94f7a72e7f95c662a1a09364221f8fbd0d1218c152cb712938f5433432ec5"
+    },
+    {
+      "path": "logo-kit/png/peyvand-wordmark-light-ink-1600.png",
+      "bytes": 50432,
+      "sha256": "687e6c56d6d11daa63d166e9ccf466fd7416cb9534f31d3df22eea3e5474ac8b"
+    },
+    {
+      "path": "logo-kit/preview.png",
+      "bytes": 148370,
+      "sha256": "8a051536febaf9db2edc3809a6cd928f6f9d847214a55bedd35138b3c5ebbf0b"
+    },
+    {
+      "path": "logo-kit/preview.svg",
+      "bytes": 29244,
+      "sha256": "1e7e976bb877c4731c4376975183c397c8ea3b310b2d2f9f0fdda7ae24168f6f"
+    },
+    {
+      "path": "logo-kit/svg/peyvand-logo-dark-ink.svg",
+      "bytes": 7258,
+      "sha256": "7fbd520b8fdaefedd3aac0ce24635e5f8e1f7a4d2082f4fa6ae0b4e00f3ea5ed"
+    },
+    {
+      "path": "logo-kit/svg/peyvand-logo-light-ink.svg",
+      "bytes": 7258,
+      "sha256": "c7b16827ad3947f00e46649f3de42261425febff15255340975159841f0bf3e3"
+    },
+    {
+      "path": "logo-kit/svg/peyvand-symbol-dark-ink.svg",
+      "bytes": 2720,
+      "sha256": "020ecc7b248b62981cadd8b606678c93709670ac3207c746a25bb7c2a3af4365"
+    },
+    {
+      "path": "logo-kit/svg/peyvand-symbol-light-ink.svg",
+      "bytes": 2720,
+      "sha256": "f1dffe26575eb7bee64526acc55ad184984dd19d7d3a722b0ab89b9f4fb4c62b"
+    },
+    {
+      "path": "logo-kit/svg/peyvand-wordmark-dark-ink.svg",
+      "bytes": 4752,
+      "sha256": "b9a2e2ccc4c9663ebd33712214f5585a8aca11345d66da68eb578136fb7a6e4c"
+    },
+    {
+      "path": "logo-kit/svg/peyvand-wordmark-light-ink.svg",
+      "bytes": 4752,
+      "sha256": "9970967a6b39dac96218bfbbb8b7ff38d333102a9e32f99011ae332cdd39aa8b"
+    },
+    {
+      "path": "logo-kit/validation.json",
+      "bytes": 1650,
+      "sha256": "02f79d793922ae7cb93f22c9e8d7ad381e71f43efd42a9d1e2f0f6e00c067eb0"
+    }
+  ]
+}

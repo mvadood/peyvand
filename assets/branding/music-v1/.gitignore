@@ -1,0 +1,2 @@
+# Preserve these user-selected originals despite the root generated-MP3 ignore.
+!source/*.mp3

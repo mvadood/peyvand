@@ -392,11 +392,11 @@ def write_ass(segs, spans, total):
         k = spec[0]
         if k in "MH" and k not in shown and b - a > 2.5:
             shown.add(k)
-            nm = "میلاد" if k == "M" else "هومن"
+            nm = "میلاد" if k == "M" else "هومان"
             ev(e0 + 0.3, e0 + min(4.5, b - a - 0.2), "Name", r"{\fad(300,300)\1c&H005AC8FF&}▍{\1c&H00FFFFFF&}" + nm)
         if spec == "S":
             ev(e0, e0 + b - a, "Tag", r"{\pos(52,60)\bord2\3c&H000000&}میلاد", 1)
-            ev(e0, e0 + b - a, "Tag", r"{\pos(996,60)\bord2\3c&H000000&}هومن", 1)
+            ev(e0, e0 + b - a, "Tag", r"{\pos(996,60)\bord2\3c&H000000&}هومان", 1)
     # authors card during the author names
     s, e = src_to_edit(segs, 49.0, "start"), src_to_edit(segs, 58.0, "end")
     ev(s, e, "Card", r"{\fad(300,300)\pos(80,70)\bord0\shad0}{\c&H005AC8FF&}THE AUTHORS{\c&HFFFFFF&}\N{\fs52}Gerald M. Weinberg\N{\fs52}Donald C. Gause")
