@@ -1,0 +1,16 @@
+# environment
+.venv/
+__pycache__/
+
+# generated media (regenerable, too large for git)
+work/
+renders/
+*.mp4
+*.mov
+*.m4a
+*.mp3
+
+# raw conversation transcripts stay private (uncut, unpublished material)
+transcripts/
+
+.DS_Store
